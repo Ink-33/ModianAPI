@@ -22,7 +22,7 @@
 <table>
   <tr>
         <td align=center><h3>晦涩</h3>API字段人脑解读，使用前请斟酌<br><img width=300></td>
-        <td align=center><h3>兼容性</h3>随缘</br>摩点网随时都可以改api,但是我斌并不能第一时间改文档<br><img width=300></td>
+        <td align=center><h3>兼容性</h3>随缘</br>摩点网随时都可以改api,但是我并不能第一时间改文档<br><img width=300></td>
     </tr>
 </table>
 
